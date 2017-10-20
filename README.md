@@ -1,2 +1,3 @@
-# rest-api-project
-Profile REST Api Project
+# Profile REST API
+
+REST API providing basic functionality for mapping user profiles.
